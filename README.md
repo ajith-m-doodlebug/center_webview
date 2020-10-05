@@ -2,7 +2,7 @@
 
 A new Flutter package for web. Keeps your contents in the center of the screen and adjusts to the responsive change in size.
 
-# Usage: wrap `CenterWebView` around the Widget which you want to keep in the center
+Usage: wrap `CenterWebView` around the Widget which you want to keep in the center
  
  Code
  
