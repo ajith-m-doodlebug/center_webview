@@ -24,12 +24,6 @@ Usage: wrap `CenterWebView` around the Widget which you want to keep in the cent
               DesktopNavigationItem(
                 title: 'Menu',
               ),
-              DesktopNavigationItem(
-                title: 'Menu',
-              ),
-              DesktopNavigationItem(
-                title: 'Menu',
-              ),
             ],
           ),
         ),
